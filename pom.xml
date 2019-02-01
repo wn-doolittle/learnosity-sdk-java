@@ -111,8 +111,8 @@
               </filters>
               <relocations>
                 <relocation>
-                  <pattern>org.</pattern>
-                  <shadedPattern>learnosity.shaded.org.</shadedPattern>
+                  <pattern>org.apache</pattern>
+                  <shadedPattern>learnosity.shaded.org.apache</shadedPattern>
                 </relocation>
               </relocations>
             </configuration>
